@@ -61,7 +61,7 @@
   "dependencies": {
     "browserslist": "^3",
     "core-js": "^3",
-    "js-yaml": "^3",
+    "js-yaml": "^3.13.1",
     "mem": "^4",
     "webpack": "^4",
     "webpack-dev-server": "^3"
