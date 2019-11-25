@@ -59,6 +59,9 @@
     "dist"
   ],
   "dependencies": {
-    "js-yaml": "^3.13.1"
+    "browserslist": "^3",
+    "core-js": "^3",
+    "js-yaml": "^3",
+    "mem": "^4"
   }
 }
