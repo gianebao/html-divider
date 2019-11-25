@@ -6,12 +6,15 @@
   "private": true,
   "dependencies": {
     "eslint": "^4",
+    "fsevents": "2",
     "html-divider": "link:..",
+    "js-yaml": "^3",
     "mem": "^4",
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^1.1.4",
+    "webpack": "^4",
     "webpack-dev-server": "^3"
   },
   "scripts": {
