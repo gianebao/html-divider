@@ -1,12 +1,15 @@
 import React, { Component } from 'react'
 
-import ExampleComponent from 'html-divider'
+import Divider from 'html-divider'
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <p>Section 1</p>
+        <Divider/>
+        <p>Section 2</p>
+        <Divider color="#f00" value="or" />
       </div>
     )
   }

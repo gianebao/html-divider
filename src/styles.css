@@ -1,8 +1,17 @@
 /* add css styles here (optional) */
+.divider {
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
 
-.test {
-  display: inline-block;
-  margin: 2em auto;
-  border: 2px solid #000;
-  font-size: 2em;
+.divider span {
+  padding: 0 .25em;
+}
+
+.divider div {
+  flex: 1;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000;
 }
